@@ -1,3 +1,4 @@
 role,NetID,LastName,FirstName
 boss,ychen2286,Chen,Brendon
 
+employee,Ashleylin1111,Lin,Xin
